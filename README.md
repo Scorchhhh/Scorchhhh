@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS (Tailwind), PHP, JS (JQuery), Database (MySql), and Phyton.
 - 💞️ I’m looking to collaborate on Society.<br>
   Magnum Opus.<br>
-  resolve()
+  resolve().
   
 
 <!---
